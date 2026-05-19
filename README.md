@@ -20,6 +20,16 @@ This project analyzes an e-commerce dataset using SQL to extract business insigh
 - Product-level revenue analysis
 - Customer segmentation (High, Medium, Low value)
 
+## 📈 Sales by Month
+
+![Sales Chart](visualizations/sales_chart.png)
+
+## 📌 Concepts Practiced
+- Customer segmentation
+- Monthly sales analysis
+- Ranking customers with window functions
+- Comparing aggregates with subqueries
+
 ## 🛠️ Tools
 - MySQL
 
